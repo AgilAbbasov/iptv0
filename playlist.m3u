@@ -1,0 +1,45 @@
+#EXTM3U
+
+########################
+# 🕌 SHIA PRO (STABIL)
+########################
+
+# Imam Hussein (əsas)
+#EXTINF:-1 group-title="Shia",Imam Hussein TV
+https://live.imamhossaintv.com/live/ih1.m3u8
+
+#EXTINF:-1 group-title="Shia",Imam Hussein 3
+https://mn-nl.mncdn.com/ihtv3/ihtv3_hd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Shia",Imam Hussein Farsi
+https://live.imamhossaintv.com/live/ih2.m3u8
+
+
+# Karbala (fallback YouTube)
+#EXTINF:-1 group-title="Shia",Karbala TV
+https://www.youtube.com/@KarbalaTV/live
+
+
+# Imam Ali
+#EXTINF:-1 group-title="Shia",Imam Ali TV
+https://www.youtube.com/@ImamAliTV/live
+
+
+# Al Kawthar
+#EXTINF:-1 group-title="Shia",Al Kawthar TV
+https://www.youtube.com/@alkawthartv/live
+
+
+# Al Thaqlayn
+#EXTINF:-1 group-title="Shia",Al Thaqlayn TV
+https://www.youtube.com/@thaqlain/live
+
+
+# Dua Channel
+#EXTINF:-1 group-title="Shia",Dua Channel
+https://www.youtube.com/@duachannel/live
+
+
+# IRIB Quran
+#EXTINF:-1 group-title="Shia",IRIB Quran
+https://www.youtube.com/@iribquran/live
