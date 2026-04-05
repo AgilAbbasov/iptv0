@@ -1,42 +1,52 @@
 #EXTM3U
 
-########################
-# 🕌 SHIA (STABIL FIX)
-########################
+#EXTINF:-1 group-title="Shia",Imam Hussein TV 4
+https://live.imamhossaintv.com/live/ih4.m3u8
 
-# Imam Hussein 1
-#EXTINF:-1 group-title="Shia",Imam Hussein TV 1
+#EXTINF:-1 group-title="Shia",Imam Hussein TV 3
+https://live.imamhossaintv.com/live/ih3.m3u8
+
+#EXTINF:-1 group-title="Shia",Imam Hussein TV 2
+https://live.imamhossaintv.com/live/ih2.m3u8
+
+#EXTINF:-1 group-title="Shia",Imam Hussein TV (Persian)
 https://live.imamhossaintv.com/live/ih1.m3u8
 
-# Imam Hussein 3
-#EXTINF:-1 group-title="Shia",Imam Hussein TV 3
-https://mn-nl.mncdn.com/ihtv3/ihtv3_hd.smil/playlist.m3u8
-
-
-########################
-# ▶️ YOUTUBE (IPTV FIX)
-########################
-
-# Karbala TV (YouTube IPTV format)
 #EXTINF:-1 group-title="Shia",Karbala TV
-https://youtube.com/live/KarbalaTV
+https://www.karbala-tv.iq/live/karbala.m3u8
 
-# Imam Ali TV
 #EXTINF:-1 group-title="Shia",Imam Ali TV
-https://youtube.com/live/ImamAliTV
+https://imamali.tv/live/stream.m3u8
 
-# Al Kawthar
 #EXTINF:-1 group-title="Shia",Al Kawthar TV
-https://youtube.com/live/alkawthartv
+https://live.kawthartv.ir/live/stream.m3u8
 
-# Al Thaqlayn
+#EXTINF:-1 group-title="Shia",Al Ghadir TV
+https://ghadir.tv/live/stream.m3u8
+
+#EXTINF:-1 group-title="Shia",Al Wilayah TV
+https://wilayah.tv/live/stream.m3u8
+
 #EXTINF:-1 group-title="Shia",Al Thaqlayn TV
-https://youtube.com/live/thaqlain
+https://thaqlain.tv/live/stream.m3u8
 
-# Dua Channel
 #EXTINF:-1 group-title="Shia",Dua Channel
-https://youtube.com/live/duachannel
+https://dua.tv/live/stream.m3u8
 
-# IRIB Quran
+#EXTINF:-1 group-title="Shia",Velayat TV
+https://velayat.tv/live/stream.m3u8
+
+#EXTINF:-1 group-title="Shia",Waliasr TV
+https://waliaasr.tv/live/stream.m3u8
+
+#EXTINF:-1 group-title="Shia",Hadi TV 1
+https://hadi.tv/live/hadi1.m3u8
+
+#EXTINF:-1 group-title="Shia",Hadi TV 6
+https://hadi.tv/live/hadi6.m3u8
+
 #EXTINF:-1 group-title="Shia",IRIB Quran
-https://youtube.com/live/iribquran
+https://live.irib.ir/quran.m3u8
+
+#EXTINF:-1 group-title="Shia",ON4 TV
+https://www.on4.com.tr/canli-yayin/stream.m3u8
