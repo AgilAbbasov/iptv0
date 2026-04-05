@@ -1,45 +1,42 @@
 #EXTM3U
 
 ########################
-# 🕌 SHIA PRO (STABIL)
+# 🕌 SHIA (STABIL FIX)
 ########################
 
-# Imam Hussein (əsas)
-#EXTINF:-1 group-title="Shia",Imam Hussein TV
+# Imam Hussein 1
+#EXTINF:-1 group-title="Shia",Imam Hussein TV 1
 https://live.imamhossaintv.com/live/ih1.m3u8
 
-#EXTINF:-1 group-title="Shia",Imam Hussein 3
+# Imam Hussein 3
+#EXTINF:-1 group-title="Shia",Imam Hussein TV 3
 https://mn-nl.mncdn.com/ihtv3/ihtv3_hd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Shia",Imam Hussein Farsi
-https://live.imamhossaintv.com/live/ih2.m3u8
 
+########################
+# ▶️ YOUTUBE (IPTV FIX)
+########################
 
-# Karbala (fallback YouTube)
+# Karbala TV (YouTube IPTV format)
 #EXTINF:-1 group-title="Shia",Karbala TV
-https://www.youtube.com/@KarbalaTV/live
+https://youtube.com/live/KarbalaTV
 
-
-# Imam Ali
+# Imam Ali TV
 #EXTINF:-1 group-title="Shia",Imam Ali TV
-https://www.youtube.com/@ImamAliTV/live
-
+https://youtube.com/live/ImamAliTV
 
 # Al Kawthar
 #EXTINF:-1 group-title="Shia",Al Kawthar TV
-https://www.youtube.com/@alkawthartv/live
-
+https://youtube.com/live/alkawthartv
 
 # Al Thaqlayn
 #EXTINF:-1 group-title="Shia",Al Thaqlayn TV
-https://www.youtube.com/@thaqlain/live
-
+https://youtube.com/live/thaqlain
 
 # Dua Channel
 #EXTINF:-1 group-title="Shia",Dua Channel
-https://www.youtube.com/@duachannel/live
-
+https://youtube.com/live/duachannel
 
 # IRIB Quran
 #EXTINF:-1 group-title="Shia",IRIB Quran
-https://www.youtube.com/@iribquran/live
+https://youtube.com/live/iribquran
